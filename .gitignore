@@ -1,0 +1,8 @@
+# Secrets: never commit these
+.env
+*.pem
+*.key
+
+# Python files that are created automatically
+__pycache__/
+.venv/
